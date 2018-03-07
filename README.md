@@ -1,6 +1,7 @@
 # zelda.io
 First level of the original Legend of Zelda for the NES (+ custom Portal level), in Unity. 
 
+Collaborators: Frank H. Wilton, Jason Han
 
 Controls for Main Scene:
 -Switch to Bow: B
